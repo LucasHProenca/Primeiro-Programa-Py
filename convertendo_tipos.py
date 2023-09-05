@@ -1,0 +1,8 @@
+print(int(1.9))
+print(int("10"))
+print(float("10.30"))
+print(type(str(10.10)))
+print(10 / 2)
+print(10 // 2)
+print(5 // 2)
+print(float("a"))
